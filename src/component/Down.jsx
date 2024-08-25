@@ -6,7 +6,7 @@ const Down = () => {
   return (
     <div className="max-w-[600px] py-16 grid md:flex mx-auto  gap-9  lg:flex justify-between px-4 text-gray-300">
       <div className="lg:basis-1/3">
-        <h1 className="w-full text-3xl  font-bold text-[#00df9a]">Chris</h1>
+      <h1 className="w-full text-3xl font-bold text-[#00df9a]">Ins<span className="text-white font-sans ">igh</span>tix </h1>
         <p className="w-[20rem] py-4">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed.
         </p>
